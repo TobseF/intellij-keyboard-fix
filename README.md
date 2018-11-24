@@ -6,7 +6,7 @@ This is done by a keyboard which is created by the [Microsoft Keyboard Layout Cr
 
 ## Download
 
-:package: [IntelliJ_keyboard_layout_fix_setup.zip](https://github.com/TobseF/intellij-keyboard-fix/releases/tag/1.0.0)
+:package: [IntelliJ_keyboard_layout_fix_setup.zip](https://github.com/TobseF/intellij-keyboard-fix/releases/download/1.0.0/intelliJ_keyboard_layout_fix_setup.zip)
 
 ## Install
 
